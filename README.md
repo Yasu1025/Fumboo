@@ -1,13 +1,17 @@
-#Practice
+#Fumboo
 
-This repositories is just about tracks of my studying.
+Simple blog on Wordpress.
+I wrote everything from scratch.
 
-**HTML, CSS, JavaScript, jQuery, Angular.js, Node.js, PHP, etc....**
+Fumboo means "Fun" + "Bumboo".
+Try to mix Flat design with Japanese bamboo taste.
+
+** still under construction adding some functions and refine design **
 
 <br><br><br>
 
 
-###[Angular Page Transition](https://github.com/Yasu1025/Practice/tree/master/angularPageTransition)
-simple page transition with ng-animate & ng-route.
+###[Link](http://wp.yasuhirokitasaka.com/)
+
 
 
