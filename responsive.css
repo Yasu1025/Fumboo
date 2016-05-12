@@ -1,0 +1,118 @@
+@media all and (max-width:960px){
+
+  article{
+    font-size: .9em;
+  }
+  .single_post img{
+    width: 50%;
+    height: 50%;
+  }
+}
+
+@media all and (max-width:680px){
+
+  .page_title{
+    height: 100px;
+    text-align: center;
+  }
+  .gnav{
+    font-size: .9em
+  }
+article{
+  margin-bottom: 0;
+  font-size: .8em;
+}
+.main_contents{
+  margin: 0;
+  width: 100%;
+}
+.main_left, .main_right{
+  float: none;
+  width: 100%;
+}
+.main_right{
+    margin-top: 3em;
+    text-align: center
+}
+.main_right h3{
+  width: 100%;
+  border:  none;
+  background-color: #008000;
+  color: #fff;
+}
+.sidebar ul li a{
+  border-bottom: 1px solid #EBEEEF;
+  padding:  .5em 0;
+}
+
+footer .f_contents{
+  float: none;
+  width: 100%;
+  text-align: center;
+}
+.my_img{
+  float: none;
+  margin: 0 auto
+}
+
+footer .textwidget{
+  margin-bottom: 3em;
+}
+footer .widget_title{
+  font-size: 1.2em;
+}
+footer form input[type="text"],
+footer form input[type="email"],
+textarea{
+  width: 90%
+}
+footer form input[type="submit"]{
+  margin-left: 0;
+}
+
+
+
+
+@media all and (max-width:520px){
+
+
+  header .site_title{
+    width: 100%;
+    text-align: center;
+  }
+
+  header .search_box{
+    display: none;
+  }
+  header .gnav{
+    width: 100%;
+  }
+
+
+.main_contents{
+  margin: 0;
+  width: 100%;
+}
+.main_left, .main_right{
+  float: none;;
+}
+.main_left{
+  width: 100%;
+}
+
+ article{
+   font-size: .6em;
+   width: 100%;
+   border: none;
+   border-bottom: 1px #EBEEEF solid;
+ }
+ article img{
+   width: 70%;
+   height: 70%;
+ }
+
+
+
+
+
+}
